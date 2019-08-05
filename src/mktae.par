@@ -1,0 +1,9 @@
+infile,s,a,"",,,"Input WMAP image in tdet coords with region DSS"
+asphistfile,s,a,"",,,"Input aspect histogram file"
+outfile,s,a,"",,,"Output file name"
+geompar,s,h,"geom",,,"Pixlib geometry file"
+#ardlibpar,s,h,"ardlib.par",,,"Ardlib parameter file"
+clobber,b,h,no,,,"Remove existing file names?"
+verbose,i,h,0,0,5,"Tool verbosity"
+mode,s,h,ql
+
