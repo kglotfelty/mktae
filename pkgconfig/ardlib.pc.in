@@ -6,6 +6,6 @@ includedir=${prefix}/include
 Name: ardlib
 Description: MIT ARDLIB library
 Version: 4.11
-Requires: pix 
+Requires: pix caldb4 cfitsio
 Libs: -L${libdir} -lardlib
 Cflags: -I${includedir}
